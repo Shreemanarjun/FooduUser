@@ -1,1 +1,4 @@
 /android/app/google-services.json
+.gradle
+.dart_tool
+.idea
