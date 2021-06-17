@@ -2,3 +2,8 @@
 /.gradle
 /.dart_tool
 /.idea
+/.metadata
+/.packages
+/.fooduuser.iml
+/.flutter-plugins
+/.flutter-plugins-dependencies
