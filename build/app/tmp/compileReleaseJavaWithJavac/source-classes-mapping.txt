@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/example/fooduuser/BuildConfig.java
- com.example.fooduuser.BuildConfig
